@@ -6,7 +6,7 @@ focusing on Backend development and C
 
 * 🌍  I'm based in Milan, Italy
 * ✉️  You can contact me at [cipriettid949@gmail.com](mailto:cipriettid949@gmail.com)
-* 🧠  I'm learning Python, C, Django
+* 🧠  I'm learning Python, C, Django and Java
 
 ### Skills
 
